@@ -11,7 +11,7 @@ public class ReadingExcelBannaBhai {
     public static void main(String[] args) throws IOException {
         FileInputStream file = new FileInputStream("C:\\Users\\gtas6\\IdeaProjects\\com.OrangeHRM\\testdata\\testdata.xlsx");
 //        FileInputStream file = new FileInputStream(System.getProperty("user.dir")+"\\testdata\\testdata.xlsx");
-
+//hasan banna
         XSSFWorkbook workbook = new XSSFWorkbook(file);//
         XSSFSheet sheet=workbook.getSheet("Sheet2");
 
