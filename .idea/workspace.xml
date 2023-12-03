@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b38986af-8652-4e1c-abdf-823523625817" name="Changes" comment="send from HRM Project" />
+    <list default="true" id="b38986af-8652-4e1c-abdf-823523625817" name="Changes" comment="send from HRM Project">
+      <change afterPath="$PROJECT_DIR$/practice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/AlertClassBannaBhai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/Auto_Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/BootStrapTawhidBhai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/CheckBox2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/CheckBoxBannaBhai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/DropDownautomaticPracticeRS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/FirstTC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/ForInterviewPurpose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/GoogleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/GoogleLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/LoginBannaBhai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/LoginWithTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/RahulShetyAcademypractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/RahulshetyAcademy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/ReadingExcelBanaBhai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/ReadingExcell1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/Runner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/Selenium_Drag_and_Drop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomePage/TrickyDom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomePage/AutoSuggesticDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomePage/AutoSuggesticDropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomePage/BootStrapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomePage/BootStrapBBhai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomePage/CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomePage/CheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomePage/JavaScriptAlerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomePage/JavaScriptAlerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomePage/ReadingExcelBannaBhai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomePage/ReadingExcelBannaBhai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomePage/Sceenshot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomePage/SeleniumJquery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomePage/SeleniumJquery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomePage/SeleniumSpicejet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomePage/SeleniumSpicejet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomePage/login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdata/New Microsoft Excel Worksheet.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testdata/New Microsoft Excel Worksheet.xlsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,13 +77,13 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReadingExcelBannaBhai">
-    <configuration name="BootStrapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomePage.BootStrapDemo" />
-      <module name="com.OrangeHRM" />
+  <component name="RunManager" selected="Application.GoogleClass">
+    <configuration name="DropDownautomaticPracticeRS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomePage.DropDownautomaticPracticeRS" />
+      <module name="FrameWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HomePage.*" />
@@ -58,9 +94,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomePage.CheckBox" />
-      <module name="com.OrangeHRM" />
+    <configuration name="GoogleClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomePage.GoogleClass" />
+      <module name="FrameWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HomePage.*" />
@@ -71,9 +107,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadingExcelBannaBhai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomePage.ReadingExcelBannaBhai" />
-      <module name="com.OrangeHRM" />
+    <configuration name="GoogleLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomePage.GoogleLogin" />
+      <module name="FrameWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HomePage.*" />
@@ -84,9 +120,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumJquery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomePage.SeleniumJquery" />
-      <module name="com.OrangeHRM" />
+    <configuration name="LoginBannaBhai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomePage.LoginBannaBhai" />
+      <module name="FrameWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HomePage.*" />
@@ -97,9 +133,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumSpicejet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomePage.SeleniumSpicejet" />
-      <module name="com.OrangeHRM" />
+    <configuration name="RahulshetyAcademy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomePage.RahulshetyAcademy" />
+      <module name="FrameWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HomePage.*" />
@@ -110,13 +146,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.GoogleClass" />
+      <item itemvalue="Application.DropDownautomaticPracticeRS" />
+      <item itemvalue="Application.GoogleLogin" />
+      <item itemvalue="Application.LoginBannaBhai" />
+      <item itemvalue="Application.RahulshetyAcademy" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReadingExcelBannaBhai" />
-        <item itemvalue="Application.CheckBox" />
-        <item itemvalue="Application.BootStrapDemo" />
-        <item itemvalue="Application.SeleniumJquery" />
-        <item itemvalue="Application.SeleniumSpicejet" />
+        <item itemvalue="Application.GoogleClass" />
+        <item itemvalue="Application.DropDownautomaticPracticeRS" />
+        <item itemvalue="Application.GoogleLogin" />
+        <item itemvalue="Application.LoginBannaBhai" />
+        <item itemvalue="Application.RahulshetyAcademy" />
       </list>
     </recent_temporary>
   </component>
@@ -143,11 +186,27 @@
       <option name="project" value="LOCAL" />
       <updated>1684704998262</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="send from HRM Project">
+      <created>1684705380840</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684705380840</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="send from HRM Project" />
     <option name="LAST_COMMIT_MESSAGE" value="send from HRM Project" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/com_OrangeHRM$JavaScriptExecutor.ic" NAME="JavaScriptExecutor Coverage Results" MODIFIED="1685159957253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>HomePage.*</FILTER>
+    </SUITE>
   </component>
 </project>

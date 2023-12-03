@@ -13,7 +13,7 @@ public class SeleniumSpicejet {
         driver.manage().window().maximize();
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));//dynamic wait
-        driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(6));
+
         driver.get("https://www.spicejet.com/");
         Thread.sleep(6000);
         //   //user verify the tittle of dashboard page.exp tittle:spicejet
@@ -33,3 +33,13 @@ driver.findElement(By.xpath("//div[@class='css-76zvg2 r-jwli3a r-n6v787 r-majxgm
      // driver.findElement(By.xpath(""))
     }
 }
+
+//towhid bhai er expath
+//	   driver.findElement(By.xpath("//*[contains(text(),'Passengers')]")).click();
+//	   driver.findElement(By.xpath("(//*[@class='css-1dbjc4n r-18u37iz r-1wtj0ep r-1x0uki6'])[1]//div[@data-focusable]")).click();
+//	    Thread.sleep(4000);
+//	    driver.findElement(By.xpath("(//*[@class='css-1dbjc4n r-18u37iz r-1wtj0ep r-1x0uki6'])[2]//div[@data-focusable]")).click();
+//	    Thread.sleep(4000);
+//	    driver.findElement(By.xpath("(//*[@class='css-1dbjc4n r-18u37iz r-1wtj0ep r-1x0uki6'])[3]//div[@data-focusable]")).click();
+//	    Thread.sleep(4000);
+//	    driver.quit();

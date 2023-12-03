@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/gtas6/IdeaProjects/com.OrangeHRM">
+        <classes>
+            <class name="HomePage.FirstTC">
+                <methods>
+                    <include name="testing1"/>
+                    <include name="banna"/>
+                </methods>
+            </class>
+            <class name="HomePage.LoginWithTestNG">
+                <methods>
+                    <include name="openApp"/>
+                    <include name="logIn"/>
+                    <include name="browserClose"/>
+                    <include name="mosammat"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

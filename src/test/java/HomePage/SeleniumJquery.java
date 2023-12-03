@@ -13,12 +13,11 @@ public class SeleniumJquery {
         WebDriver driver=new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().deleteAllCookies();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-        driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(6));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(8));
         driver.get("https://www.jquery-az.com/boots/demo.php?ex=63.0_2");
         Thread.sleep(3000);
        String tittlee= driver.getTitle();
-        System.out.println("This tittle is capture before login page from dashboard page:+ tittlee");
+        System.out.println("This tittle is capture before login page from dashboard page:"+ tittlee);
         driver.findElement(By.xpath("//button[@type='button']")).click();
       List<WebElement> list= driver.findElements(By.xpath("//ul[@class='multiselect-container dropdown-menu']//li"));
 for(int i=0;i<list.size();i++){
